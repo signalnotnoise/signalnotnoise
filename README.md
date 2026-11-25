@@ -1,4 +1,4 @@
-I'm a Technical Lead at Recursive Labs and a Course Director at Full Sail University. I build developer tools, multi-agent AI systems, and live products, then measure whether they actually run. I also run Outward Labs.
+I'm a Technical Lead at Recursive Labs and an Associate Course Director at Full Sail University. I build developer tools, multi-agent AI systems, and live products, then measure whether they actually run. I also run Outward Labs.
 
 ### What I'm building
 
